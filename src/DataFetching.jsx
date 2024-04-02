@@ -26,3 +26,4 @@ function DataFetching() {
 }
 
 export default DataFetching;
+// i hate axios
