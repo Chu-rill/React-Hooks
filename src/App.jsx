@@ -1,10 +1,10 @@
 import React from "react";
-import Effect from "./Effect";
-import "./styles.css";
+import DataFetching from "./DataFetching";
+
 function App() {
   return (
     <>
-      <Effect />
+      <DataFetching />
     </>
   );
 }
