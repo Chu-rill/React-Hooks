@@ -5,9 +5,9 @@ function DataFetching() {
 
   useEffect(() => {
     fetch("https://jsonplaceholder.typicode.com/posts")
-      .then((res) => res.json()) // Parse the response as JSON
+      .then((res) => res.json())
       .then((data) => {
-        setPosts(data); // Set the state with the data
+        setPosts(data);
       })
       .catch((err) => {
         console.log(err);
