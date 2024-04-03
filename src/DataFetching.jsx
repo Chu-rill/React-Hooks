@@ -26,4 +26,4 @@ function DataFetching() {
 }
 
 export default DataFetching;
-// i hate axios
+// i need to practice axios
