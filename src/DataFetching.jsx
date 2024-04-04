@@ -31,3 +31,4 @@ function DataFetching() {
 export default DataFetching;
 // i need to practice axios
 //but i'll be using fetch
+//3.51
