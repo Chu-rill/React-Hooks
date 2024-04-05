@@ -39,4 +39,3 @@ function DataFetching() {
 export default DataFetching;
 
 //but i'll be using fetch
-//0.49
